@@ -1,0 +1,9 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.dark {
+  background-color: #121212;
+  color: white;
+  min-height: 100vh;
+}
